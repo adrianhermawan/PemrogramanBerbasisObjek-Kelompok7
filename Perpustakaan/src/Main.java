@@ -1,5 +1,5 @@
 public class Main {
-    // Kelompok 7 - A2
+    // Kelompok 4 - PBO
     // Adrian Hermawan - J0403251044
     // Diaz Ramaananta Harahap - J0403251048
     // Firly Ramadhani Tubagus - J0403251115
